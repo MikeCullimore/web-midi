@@ -3,6 +3,8 @@ TODO:
 Compare speed of note frequency lookup table with calculating on the fly.
 Play sine wave of that frequency using Tone.js.
 Rename getMIDIMessage? More like parse than read.
+Revisit examples in synth_history.
+Add inharmonicity: Railsback curve.
 */
 
 "use strict";
